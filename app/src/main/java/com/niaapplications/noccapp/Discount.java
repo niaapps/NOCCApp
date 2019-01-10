@@ -6,13 +6,19 @@ public class Discount {
     public    String name;
     public    String description;
     public    String businessPhoto;
+    // public String webURL;
 
 
     public Discount(){
+        }
+
+
+    public Discount(String name, String description, String businessID /*String webURL*/){
 
         this.name=name;
         this.description=description;
         this.businessID = businessID;
+        // this.webURL = webURL;
 
     }
 
@@ -35,7 +41,17 @@ public class Discount {
     public void setName(String name) {
         this.name = name;
     }
-
+/* For when DB is updated, just uncomment
+*   public String getWebURL(){
+*
+*   return webURL;
+*   }
+*
+* public void setWebURL(String webURL){
+* this.webURL = webURL;
+* }
+*
+* */
 
 
 }
