@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "343137572841",
+    "project_number": "3**********",
     "firebase_url": "https://nocc-fa2fa.firebaseio.com",
     "project_id": "nocc-fa2fa",
     "storage_bucket": "nocc-fa2fa.appspot.com"
@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:343137572841:android:4237d2bc1cd4571e",
+        "mobilesdk_app_id": "1:3**********:android:4237d2bc1cd4571e",
         "android_client_info": {
           "package_name": "com.niaapplications.noccapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "343137572841-eo2isv3ther7gildk4ohcj0lukc5e5be.apps.googleusercontent.com",
+          "client_id": "3**********-eo2isv3ther7gildk4ohcj0lukc5e5be.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.niaapplications.noccapp",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "343137572841-0anpes6cc47or21sdi951j35ehr60sk9.apps.googleusercontent.com",
+          "client_id": "3**********-0anpes6cc47or21sdi951j35ehr60sk9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA1OY6KN47narmGLM172uZE7cHb3K7xM3M"
+          "current_key": "AIzaSyA1OY6KN47narmGLM172u**************"
         }
       ],
       "services": {
@@ -40,11 +40,11 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "343137572841-0anpes6cc47or21sdi951j35ehr60sk9.apps.googleusercontent.com",
+              "client_id": "3*********-0anpes6cc47or21sdi951j35ehr60sk9.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "343137572841-b8481lhl4fsue9qcg0otaf0u76kvk88k.apps.googleusercontent.com",
+              "client_id": "3**********-b8481lhl4fsue9qcg0otaf0u76kvk88k.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.mobileappcompany.CEA"
